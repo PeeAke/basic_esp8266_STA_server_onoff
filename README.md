@@ -11,4 +11,6 @@ and STA client is your project on-off esp8266
 * Browser that connect to STA server can on-off GPIO on STA client
 
 Browser ---> STA Server ----> STA Client ----> on-off GPIO
+
+
              STA Server <---- STA Client ----> show ip of server on OLED
